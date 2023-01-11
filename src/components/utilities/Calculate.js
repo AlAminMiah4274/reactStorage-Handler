@@ -6,4 +6,7 @@ const multiply = (first, second) => {
     return first * second;
 }
 
-export { add, multiply };
+const substraction = (first, second) => {
+    return first - second;
+}
+export { add, multiply, substraction };
