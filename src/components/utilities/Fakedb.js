@@ -1,4 +1,4 @@
-// use local storage to manage data 
+// use local storage to manage data
 
 const addToDb = id => {
     const quantity = localStorage.getItem(id);
